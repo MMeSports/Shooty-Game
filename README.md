@@ -1,2 +1,2 @@
 # Phaser.js Library
-Shoot'em Up
+Template project for HTML5 Shoot 'em Up in an Afternoon
